@@ -1,0 +1,17 @@
+F:\Projects\GameOfLife\bin\Debug\net6.0-windows\GameOfLife.exe
+F:\Projects\GameOfLife\bin\Debug\net6.0-windows\GameOfLife.deps.json
+F:\Projects\GameOfLife\bin\Debug\net6.0-windows\GameOfLife.runtimeconfig.json
+F:\Projects\GameOfLife\bin\Debug\net6.0-windows\GameOfLife.dll
+F:\Projects\GameOfLife\bin\Debug\net6.0-windows\GameOfLife.pdb
+F:\Projects\GameOfLife\obj\Debug\net6.0-windows\GameOfLife.csproj.AssemblyReference.cache
+F:\Projects\GameOfLife\obj\Debug\net6.0-windows\GameOfLife.Form1.resources
+F:\Projects\GameOfLife\obj\Debug\net6.0-windows\GameOfLife.csproj.GenerateResource.cache
+F:\Projects\GameOfLife\obj\Debug\net6.0-windows\GameOfLife.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\GameOfLife\obj\Debug\net6.0-windows\GameOfLife.AssemblyInfoInputs.cache
+F:\Projects\GameOfLife\obj\Debug\net6.0-windows\GameOfLife.AssemblyInfo.cs
+F:\Projects\GameOfLife\obj\Debug\net6.0-windows\GameOfLife.csproj.CoreCompileInputs.cache
+F:\Projects\GameOfLife\obj\Debug\net6.0-windows\GameOfLife.dll
+F:\Projects\GameOfLife\obj\Debug\net6.0-windows\refint\GameOfLife.dll
+F:\Projects\GameOfLife\obj\Debug\net6.0-windows\GameOfLife.pdb
+F:\Projects\GameOfLife\obj\Debug\net6.0-windows\GameOfLife.genruntimeconfig.cache
+F:\Projects\GameOfLife\obj\Debug\net6.0-windows\ref\GameOfLife.dll
